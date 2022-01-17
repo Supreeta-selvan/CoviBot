@@ -3,4 +3,4 @@ CoviBot - is an intelligent advising bot for COVID-19 published on a website and
 
 Link for telegram : http://t.me/Covi_QnA_Bot
 
-Link for websie :  https://sites.google.com/view/covi-qna-bot/home
+Link for website  :  https://sites.google.com/view/covi-qna-bot/home
